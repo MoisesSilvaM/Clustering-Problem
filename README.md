@@ -9,6 +9,6 @@ To launch the experiments write a Scipt where the classpath is defined, other im
 
 MyProblem has 3 main functions: Setup, Evaluate and Describe. In Setup the data is loaded, in Evaluate the instances are evaluated and the best individual is stored when it is found, finally in Describe the outputs are ordered.
 
-The class Instances is the main class of the project, there the parameters of the instance are written, the functions and specific terminals designed for the problem, in addition to the Fitness function, among others.
+The class Instance is the main class of the project, there the parameters of the instances are written, the functions and specific terminals designed for the problem, in addition to the Fitness function, among others.
 
 It is also necessary to create the Point class, where the characteristics of the problem data are defined, as well as a specific evaluation function for each of the functions and terminals created.
