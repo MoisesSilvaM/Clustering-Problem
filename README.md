@@ -1,5 +1,5 @@
 # Clustering-Problem
-Creating new algorithms through genetic programing to solve the automatic grouping problem
+Creating new algorithms through genetic programing to solve the automatic grouping problem.
 
 For this project a genetic programming library called ECJ was used, this allows to make the evolution of the programs, but it is necessary to program everything related to the specific problem, the "ec" folder, contains the library files.
 
